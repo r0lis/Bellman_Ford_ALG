@@ -1,0 +1,15 @@
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\bin\Debug\net7.0\Bellman_Forduv_alg.exe
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\bin\Debug\net7.0\Bellman_Forduv_alg.deps.json
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\bin\Debug\net7.0\Bellman_Forduv_alg.runtimeconfig.json
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\bin\Debug\net7.0\Bellman_Forduv_alg.dll
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\bin\Debug\net7.0\Bellman_Forduv_alg.pdb
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\obj\Debug\net7.0\Bellman_Forduv_alg.csproj.AssemblyReference.cache
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\obj\Debug\net7.0\Bellman_Forduv_alg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\obj\Debug\net7.0\Bellman_Forduv_alg.AssemblyInfoInputs.cache
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\obj\Debug\net7.0\Bellman_Forduv_alg.AssemblyInfo.cs
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\obj\Debug\net7.0\Bellman_Forduv_alg.csproj.CoreCompileInputs.cache
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\obj\Debug\net7.0\Bellman_Forduv_alg.dll
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\obj\Debug\net7.0\refint\Bellman_Forduv_alg.dll
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\obj\Debug\net7.0\Bellman_Forduv_alg.pdb
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\obj\Debug\net7.0\Bellman_Forduv_alg.genruntimeconfig.cache
+D:\Algoritmizace\Bellman_Forduv_alg\Bellman_Forduv_alg\obj\Debug\net7.0\ref\Bellman_Forduv_alg.dll
